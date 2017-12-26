@@ -1,0 +1,22 @@
+{
+  "name": "ng-text-truncate",
+  "version": "1.0.0",
+  "description": "Hide and show text",
+  "main": "ng-text-truncate.js",
+  "scripts": {
+    "start": "gulp",
+    "lint": "gulp lint",
+    "build": "gulp build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svistrnr/ng-text-truncate.git"
+  },
+  "keywords": [
+    "jquery-plugin",
+    "ecosystem:jquery"
+  ],
+  "author": "Yuriy Gagarin",
+  "license": "NET"
+}
