@@ -1,0 +1,24 @@
+{
+  "name": "ng-text-truncate",
+  "main": "ng-text-truncate.js",
+  "homepage": "https://github.com/ibadnabihashmi/ng-text-truncate",
+  "authors": [
+    "https://github.com/lorenooliveira"
+  ],
+  "description": "truncates text on specified length",
+  "keywords": [
+    "more",
+    "less",
+    "truncate",
+    "collapse",
+    "expand"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
